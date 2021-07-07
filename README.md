@@ -5,5 +5,5 @@ College: KJ institute of management
 Beginner: I will learn Python and it's libraries
 
 Day 1: Learning data variables in python
-Day 2: Watching Data structures in Python| Tutorial by edurekha
+Day 2: Watching inbuilt Data structures in Python| Tutorial by edurekha
 
