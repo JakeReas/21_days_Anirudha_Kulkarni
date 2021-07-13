@@ -9,3 +9,4 @@ Day 2: Watching inbuilt Data structures in Python| Tutorial by edurekha
 Day 3: User defined data structures and file handling part 1
 Day 4: Numpy basics all
 Day 5: Pandas basic part 1
+Day 6: Pandas basic part 2
