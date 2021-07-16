@@ -11,3 +11,4 @@ Day 4: Numpy basics all
 Day 5: Pandas basic part 1
 Day 6: Pandas basic part 2
 Day 7: Pandas basic part 3
+Day 8: Pandas basic part 4
