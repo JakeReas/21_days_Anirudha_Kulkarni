@@ -13,3 +13,4 @@ Day 6: Pandas basic part 2
 Day 7: Pandas basic part 3
 Day 8: Pandas basic part 4
 Day 9: Pandas 
+Day 10: Pandas and yfinance
